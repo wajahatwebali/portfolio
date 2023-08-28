@@ -1,0 +1,22 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    background: #fff;
+    padding: 10px;
+}
+img {
+    max-width: 100%;
+    height:auto;
+    vertical-align: middle;
+    display: inline-block;
+}
+.grid-wrapper > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+

@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #1e272e;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 15px 0;
+    outline: solid #fff 20px;
+}
+
+.gallery img {
+    flex-wrap: wrap;
+    width: 320px;
+    height: 300px;
+    margin: 10px 0;
+    padding: 20px;
+}
+
+img:hover {
+    transform: scale(1.6);
+
+}

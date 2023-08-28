@@ -1,0 +1,29 @@
+body{
+margin: 0px;
+padding: 0px;
+background-color: black;
+color: #fff;
+text-align: center;
+background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg);
+ background-position: center;
+ background-repeat:no-repeat ;
+ background-size: cover;
+ height: 100vh;
+}
+h3{
+    font-size: 45px;
+    }
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 40px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: #000;
+    border:stylenone ;
+    }
+    .btn:hover{
+        background-color: aqua;
+        cursor: pointer;
+    }
